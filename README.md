@@ -7,7 +7,7 @@ Graphs inputted function using python library matplotlib.
 - Two types of function inputs: simple function, complex function.
 - > Simple function: Uses only one import from python's math library.
   > Complex function: Uses multiple imports from python's math library.
-  > > Complex function input must be in python evaluatable form.
+  > - Complex function input must be in python evaluatable form.
 - Slope Finder:
 - > Input x at which you want slope to be found.
   > Uses tangent formula to evaluate the slope at specified x.
@@ -20,3 +20,5 @@ Complex function example:
 
 Slope finder example:
 ![image](https://github.com/user-attachments/assets/6f44a603-3931-48c6-8118-7dd90d081e78)
+
+> ILS Project 4
