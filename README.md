@@ -6,8 +6,7 @@ Graphs inputted function using python library matplotlib.
 - Default domain: [10π, 10π]
 - Two types of function inputs: simple function, complex function.
 - > Simple function: Uses only one import from python's math library.
-  > Complex function: Uses multiple imports from python's math library.
-  > - Complex function input must be in python evaluatable form.
+  > Complex function: Uses multiple imports from python's math library (input must be in python evaluatable form).
 - Slope Finder:
 - > Input x at which you want slope to be found.
   > Uses tangent formula to evaluate the slope at specified x.
