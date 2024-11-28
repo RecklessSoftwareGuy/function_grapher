@@ -20,4 +20,4 @@ Complex function example:
 Slope finder example:
 ![image](https://github.com/user-attachments/assets/6f44a603-3931-48c6-8118-7dd90d081e78)
 
-> ILS Project 4
+> ILS Project 4: Function Grapher
